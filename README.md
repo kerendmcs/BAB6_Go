@@ -1,0 +1,1 @@
+Pratikum Bab 6, mneggunakan Golang sebagai BE dan terhubung dengan Postgre dengan melakukan pembuatan card dan menampilkan request dengan method API (GET, POST, DELETE) serta penanganan error jika koneksi gagal
