@@ -8,6 +8,7 @@ import (
 	migrate "github.com/rubenv/sql-migrate"
 )
 
+//go:embed sql_migrations/*.sql
 var dbMigrations embed.FS
 var DbConnection *sql.DB
 
